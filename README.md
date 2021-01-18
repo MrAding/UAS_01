@@ -3,7 +3,7 @@
 
 **Struktur Package & Module**
 ![struktur tugas](images/1.png)
-
+[flowchart](flowchart.pdf)
 
 
 **Penjelasan:**
